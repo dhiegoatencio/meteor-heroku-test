@@ -1,0 +1,14 @@
+
+
+
+heroku login
+
+git push heroku master
+
+
+
+
+
+http://marikannan.github.io/blog/2016/05/08/deploy-meteor-app-in-heroku/
+
+https://devcenter.heroku.com/articles/heroku-cli
